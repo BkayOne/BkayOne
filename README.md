@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BkayOne
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html&css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...chiedoziefrankelly@gmail.com
 
